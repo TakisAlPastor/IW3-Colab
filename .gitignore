@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large media files and temporary video buffers
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.flv
+*.ts
+*.raw
+
+# Model checkpoints & cache directories
+*.pth
+*.pt
+*.onnx
+*.bin
+pretrained_models/
+checkpoints/
+
+# Local nunif working clone if present locally
+nunif/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
