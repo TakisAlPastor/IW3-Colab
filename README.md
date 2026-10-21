@@ -28,6 +28,7 @@ An optimized, headless Google Colab workflow for converting standard 2D videos a
 | **Meta Quest 2** (Legacy / Bandwidth-Constrained) | `half-sbs` | `1.8` | `0.5` | `row` | `h264_nvenc` |
 | **Apple Vision Pro** | `full-sbs` | `2.2` | `0.5` | `forward` | `hevc_nvenc` |
 | **Standard 3D TV / Monitor** | `half-sbs` or `tb` | `1.8` | `0.5` | `forward` | `libx264` |
+| **Google Cardboard / Smartphone VR** (VR Player, DeoVR mobile) | `half-sbs` | `1.5` | `0.5` | `forward` | `h264_nvenc` |
 | **Anaglyph (Red/Cyan Glasses)** | `anaglyph` | `1.5` | `0.5` | `forward` | `libx264` |
 
 ---
