@@ -16,7 +16,7 @@ A Google Colab workflow for converting standard 2D videos and images into immers
    - **Cell 4:** Configure conversion parameters.
    - **Cell 5:** Validate elementary stream geometry, packet integrity, and inspect an inline stereoscopic preview.
 
-## 📄 License & Credits
+## License & Credits
 
 * Core stereoscopic conversion engine powered by [`nagadomi/nunif`](https://github.com/nagadomi/nunif) (IW3 module).
 * Notebook and workflow harness maintained under the MIT License.
